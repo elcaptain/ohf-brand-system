@@ -45,3 +45,6 @@ Every output requires human sign-off before publishing, regardless of a skill's 
 - **Design files.** Not drafted. Checkable material exists if someone wants it: logo lockups at https://media.esphome.io/logo/ (`logo-text-on-light.svg`, `logo-text-on-dark.svg`), accent `#b3c7ff` and surface `#23272e` in `src/pages/index.astro`, and the OHF lockups the footer serves.
 - **Ownership date.** The README carries the Open Home Foundation badge, but no source read gave the date ESPHome joined. Home Assistant's truth file dates its own transfer to April 2024; do not assume ESPHome's is the same.
 - **Examples.** `examples/esphome/` is empty. Flagship live needs at least three. Harvest release posts and product announcements separately: they are two different registers.
+
+## Partner guidelines import (2026-09-30)
+ESPHome's design files now come from the board-approved partner guidelines v1.1 and are `draft: false`. They record only the ESPHome logomark and the missing secondary palette, and inherit everything else from Home Assistant. What changed and why `ready:` did not: `decisions/2026-09-30-import-partner-guidelines-v1-1.md`.

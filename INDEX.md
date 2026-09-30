@@ -9,6 +9,7 @@ The only file loaded before a task starts. One line per entry: what it is, when 
 - `core/escalation.md`: what needs a human. Load before producing any output.
 - `core/channels.md`: channel classes and purposes. Load when choosing where something goes.
 - `core/standards/`: one file per standard (website, docs, social profiles, search, and whatever the marketing team adds). Load those whose `applies_outputs` or `applies_surfaces` match the task.
+- `core/standards/partner-co-branding.md`, `partner-product-logos.md`, `partner-packaging.md`, `partner-photography.md`: for commercial partners only. Load only when a commercial partner makes or co-brands the output; never for the foundation's or a project's own work.
 
 ## Projects (one directory per voice, all the same shape)
 - `projects/REGISTRY.md`: find the project slug, tier and status here. Then load `projects/<slug>/PROJECT.md`, which lists that project's files and its open gaps.
