@@ -39,3 +39,6 @@ All outputs require human sign-off before publishing, regardless of skill reliab
 - Serial proxy release link.
 - Confirm date abbreviation ("Sept" vs "Sep") and when the year appears.
 - One non-release piece the team is proud of, for examples.
+
+## Partner guidelines import (2026-09-30)
+Design files and `marketing/partners.md` updated from the board-approved partner guidelines v1.1. Brand palette, brand type and product logos added; the files stay `draft: true` because they also carry UI tokens the sign-off does not cover. `ready:` is unchanged. See `decisions/2026-09-30-import-partner-guidelines-v1-1.md`.

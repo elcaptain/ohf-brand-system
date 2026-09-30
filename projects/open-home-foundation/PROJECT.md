@@ -71,3 +71,6 @@ From the interview, in priority order: blog post → social post set, then partn
 
 ## Deferred
 - The UK→US spelling sweep across `core/` and `projects/home-assistant/`, agreed in interview but carried as its own pull request: it touches files the marketing team owns. See `decisions/2026-09-15-ohf-house-style.md`.
+
+## Partner guidelines import (2026-09-30)
+Design files and `marketing/partners.md` updated from the board-approved partner guidelines v1.1. `design/logo.md`, `color.md`, `typography.md` and `tokens.json` are `draft: false`. `ready:` is unchanged. See `decisions/2026-09-30-import-partner-guidelines-v1-1.md`.
