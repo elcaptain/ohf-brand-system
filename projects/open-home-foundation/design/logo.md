@@ -19,15 +19,15 @@ Source: Marketing and Product Guidelines for our commercial partners, v1.1 (Augu
 ## Files
 | Variant | File | Use |
 |---|---|---|
-| Main lockup | official download folder: https://drive.google.com/drive/folders/1zalvN7zf8SIVo_yH0BUiADq7YJT08Fve | Default. Certified and trademark-registered. Use whenever in doubt. |
-| Stacked lockup | same folder | Internal design use only: right alignment, or not enough horizontal space. |
-| Inline lockup | same folder | Wide, shallow spaces such as a website navigation bar. |
-| Logomark alone | same folder | Social avatars, or third parties who publish the mark only, and only where the name appears nearby. |
-| Colored, light background | same folder | Default and official. |
-| Colored, dark background | same folder | Dark backgrounds only. |
-| Monochrome black or white | same folder | Photographic backgrounds, or print without color. |
+| Main lockup | `open-home-foundation/logo/<screen or print>/lockup/main/` | Default. Certified and trademark-registered. Use whenever in doubt. |
+| Stacked lockup | `.../lockup/stacked/` | Internal design use only: right alignment, or not enough horizontal space. |
+| Inline lockup | `.../lockup/inline/` | Wide, shallow spaces such as a website navigation bar. |
+| Logomark alone | `.../logomark/` | Social avatars, or third parties who publish the mark only, and only where the name appears nearby. |
+| Colored, light background | files ending `-color-on-light` | Default and official. |
+| Colored, dark background | files ending `-color-on-dark` | Dark backgrounds only. |
+| Monochrome black or white | files ending `-monochrome-on-light` or `-monochrome-on-dark` | Photographic backgrounds, or print without color. |
 
-The folder is the source named in the document; individual file paths are not listed there. TODO: stable per-file paths or a brand repository.
+Paths are in the brand assets repository, https://github.com/OpenHomeFoundation/brand-assets/tree/main/open-home-foundation/logo; file prefix `OHF-`. Layout and naming: `core/standards/co-branding.md`, Required elements.
 
 ## Clear space and size
 - Exclusion zone on every side: one third of the width of the logomark.

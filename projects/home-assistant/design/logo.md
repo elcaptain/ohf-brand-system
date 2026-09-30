@@ -20,19 +20,19 @@ Note: https://github.com/home-assistant/brands holds icons and logos for the bra
 ## Files
 | Variant | File | Use |
 |---|---|---|
-| Main lockup | official download folder: https://drive.google.com/drive/folders/1zalvN7zf8SIVo_yH0BUiADq7YJT08Fve | Default. Certified and trademark-registered. Use whenever in doubt. |
-| Stacked lockup | same folder | Only where space or alignment rules out the main lockup, such as too little width. |
-| Logomark alone | same folder | Social avatars, or third parties publishing the mark only, and only where the name is nearby. |
-| Logotype alone | same folder | Only when layout rules out the mark beside it, and only if the logomark appears elsewhere on the same surface (for example packaging). |
-| Colored, light background | same folder | Default and official. |
-| Colored, dark background | same folder | Dark backgrounds only. |
-| Monochrome black or white | same folder | Photographic backgrounds, or print without color. |
-| Icon, favicons, app icons | TODO | not covered by the source |
+| Main lockup | `home-assistant/logo/<screen or print>/lockup/main/` | Default. Certified and trademark-registered. Use whenever in doubt. |
+| Stacked lockup | `.../lockup/stacked/` | Only where space or alignment rules out the main lockup, such as too little width. |
+| Logomark alone | `.../logomark/` | Social avatars, or third parties publishing the mark only, and only where the name is nearby. |
+| Logotype alone | TODO: not in the repository | Only when layout rules out the mark beside it, and only if the logomark appears elsewhere on the same surface (for example packaging). |
+| Colored, light background | lockups: files ending `-color-on-light`; logomark: `-color` (one file for both backgrounds) | Default and official. |
+| Colored, dark background | lockups: files ending `-color-on-dark` | Dark backgrounds only. |
+| Monochrome black or white | files ending `-monochrome-on-light` or `-monochrome-on-dark` | Photographic backgrounds, or print without color. |
+| Icon, favicons, app icons | TODO | not covered by the source or the repository |
 
-TODO: stable per-file paths or a brand repository.
+Paths are in the brand assets repository, https://github.com/OpenHomeFoundation/brand-assets/tree/main/home-assistant/logo; file prefix `HA-`. Layout and naming: `core/standards/co-branding.md`, Required elements. The file prefix is internal, like the photography file names; it is not a way to write the name.
 
 ## Product logos
-Hardware products get a product logo: the project logo plus the product name, in Biotif, semibold for the project wordmark and regular for the product name (for example "Home Assistant Connect ZBT-2"). Same color variations and rules as the project logo.
+Hardware products get a product logo: the project logo plus the product name, in Biotif, semibold for the project wordmark and regular for the product name (for example "Home Assistant Connect ZBT-2"). Same color variations and rules as the project logo. TODO: product logo files are not in the brand assets repository.
 
 | Lockup | Use |
 |---|---|

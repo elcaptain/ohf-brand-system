@@ -17,7 +17,7 @@ Governs every output that puts a commercial partner's logo, name, or copy next t
 
 ## Required elements
 - Final approval from the Open Home Foundation before anything carrying our branding is published or printed. Route per `core/escalation.md` (partnership terms go to leadership). Contact: brand@openhomefoundation.org.
-- Our logos taken only from the official download folder, never redrawn or screenshotted: https://drive.google.com/drive/folders/1zalvN7zf8SIVo_yH0BUiADq7YJT08Fve
+- Our logos taken only from the brand assets repository, never redrawn or screenshotted: https://github.com/OpenHomeFoundation/brand-assets. One directory per brand (`open-home-foundation/`, `home-assistant/`, `esphome/`, `music-assistant/`), each with `logo/print/` (CMYK EPS and PDF) and `logo/screen/` (PNG and SVG), split into `lockup/<variant>/` and `logomark/`. File names follow `<brand>-<type>-<variant>-<theme>-<background>.<ext>`, for example `HA-lockup-main-color-on-light.svg`. Each project's `design/logo.md` lists its paths. The partner guidelines v1.1 name a Google Drive folder instead (https://drive.google.com/drive/folders/1zalvN7zf8SIVo_yH0BUiADq7YJT08Fve); the repository is the location to use.
 - Each project's logo rules as written in `projects/<slug>/design/logo.md`.
 - Clear space around each logo in the pairing of at least the height of the logotype or logomark.
 - Like paired with like: logomark with logomark, full lockup with full lockup.
@@ -64,7 +64,7 @@ A partner may use the badge only while the partnership is active.
 | Clear space | measure the gap between logos against the logotype or logomark height | widen the gap to at least that height |
 | Badge on packaging | output type is `packaging` and the badge file appears | remove the badge; follow the packaging standard |
 | Badge plus logo | badge file and an Open Home Foundation logo file both present | remove the logo |
-| Asset source | logo files come from the official download folder or badges repository | replace with official files |
+| Asset source | logo files come from the brand assets repository, badges from the badges repository | replace with official files |
 | Banned words in partner copy | list in `core` and the validator | the specific thing |
 
 ## Project partner pages
