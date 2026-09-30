@@ -67,5 +67,8 @@ A partner may use the badge only while the partnership is active.
 | Asset source | logo files come from the official download folder or badges repository | replace with official files |
 | Banned words in partner copy | list in `core` and the validator | the specific thing |
 
+## Project partner pages
+Each project's `marketing/partners.md` points here for who may use the brand and how partner logos appear. Its own content is one section, Partner copy: what the partner guidelines (pp. 124-127) tell partners about writing for that voice. That section is a summary handed to partners, not a rule set. The project's `brand/voice.md`, `brand/style.md` and `brand/messaging.md` govern, and where the summary disagrees with them, they win. It is paraphrased, because the source's own wording contains words the validator bans (`decisions/2026-09-30-import-partner-guidelines-v1-1.md`).
+
 ## How skills use this
 Skills whose output type is in `applies_outputs` load this file in their "Context to load" step and run Machine checks and Required elements in their review step. No skill needs editing when this standard changes.

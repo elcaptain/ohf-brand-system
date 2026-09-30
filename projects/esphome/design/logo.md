@@ -16,13 +16,7 @@ Source: Marketing and Product Guidelines for our commercial partners, v1.1 (Augu
 - **Logotype.** "ESPHome" in Biotif semibold, Title Case (not capitals).
 
 ## Files
-| Variant | File | Use |
-|---|---|---|
-| Main lockup | official download folder: https://drive.google.com/drive/folders/1zalvN7zf8SIVo_yH0BUiADq7YJT08Fve | Default. Use whenever in doubt. |
-| Stacked lockup | same folder | Only where space or alignment rules out the main lockup. |
-| Logomark alone | same folder | Social avatars, or third parties publishing the mark only, with the name nearby. |
-| Logotype alone | same folder | Only if the logomark appears elsewhere on the same surface. |
-| Color and monochrome variants | same folder | As for Home Assistant. |
+The ESPHome logo comes in the variants listed under Files in `projects/home-assistant/design/logo.md`, with the same uses, from the same official download folder: https://drive.google.com/drive/folders/1zalvN7zf8SIVo_yH0BUiADq7YJT08Fve
 
 TODO: stable per-file paths. The source does not say whether the ESPHome main lockup is trademark-registered, as it does for Home Assistant and the Open Home Foundation.
 

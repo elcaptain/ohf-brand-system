@@ -24,15 +24,7 @@ The source: "The color palette for Music Assistant is the same as for Home Assis
 No secondary palette. No product colors are defined for Music Assistant.
 
 ## Semantic roles
-| Role | Token |
-|---|---|
-| brand mark, hero accents | ha-blue |
-| headings on light backgrounds | ha-black |
-| body text on light backgrounds | ha-grey (fails AA for regular text on ha-white; see the Home Assistant contrast table) |
-| background, light | ha-white |
-| background, dark | ha-black |
-
-Pure black and white for monochrome graphics only.
+The Brand roles in `projects/home-assistant/design/color.md`, without the secondary palette and product color rows: Music Assistant has neither. Note the contrast flag there on ha-grey body text.
 
 ## Light and dark
 As in `projects/home-assistant/design/color.md`, Brand.

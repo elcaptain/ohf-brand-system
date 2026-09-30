@@ -47,4 +47,4 @@ Every output requires human sign-off before publishing, regardless of a skill's 
 - **Examples.** `examples/esphome/` is empty. Flagship live needs at least three. Harvest release posts and product announcements separately: they are two different registers.
 
 ## Partner guidelines import (2026-09-30)
-Design files and `marketing/partners.md` updated from the board-approved partner guidelines v1.1. `design/logo.md`, `color.md`, `typography.md` and `tokens.json` are `draft: false`; they inherit the Home Assistant rules as the source directs. `ready:` is unchanged. See `decisions/2026-09-30-import-partner-guidelines-v1-1.md`.
+ESPHome's design files now come from the board-approved partner guidelines v1.1 and are `draft: false`. They record only the ESPHome logomark and the missing secondary palette, and inherit everything else from Home Assistant. What changed and why `ready:` did not: `decisions/2026-09-30-import-partner-guidelines-v1-1.md`.
