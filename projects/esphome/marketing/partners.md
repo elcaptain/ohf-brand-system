@@ -10,16 +10,16 @@ draft: true
 # ESPHome: partners
 
 ## Who may use the brand
-Commercial partners of the Open Home Foundation, on the terms in `core/standards/co-branding.md` (packaging and photography: `core/standards/product-packaging.md`, `core/standards/product-photography.md`). TODO: integrators and non-commercial partners; the approval route in practice.
+Commercial partners of the Open Home Foundation, on the terms in `core/standards/partner-co-branding.md` (packaging and photography: `core/standards/partner-packaging.md`, `core/standards/partner-photography.md`). TODO: integrators and non-commercial partners; the approval route in practice.
 
 ## Brand licence
 TODO: link and summary. Promotion follows the brand licence: the brand on the product does the promoting, in its own channels (core/voices.md, Commercial boundary).
 
 ## Partner logos
-`core/standards/co-branding.md`, including the commercial partner badge. TODO: "works with" marks.
+`core/standards/partner-co-branding.md`, including the commercial partner badge. TODO: "works with" marks.
 
 ## Partner copy
-Summary for partners writing about ESPHome. `brand/` wins where it disagrees; status and sourcing in `core/standards/co-branding.md`, Project partner pages.
+Summary for partners writing about ESPHome. `brand/` wins where it disagrees; status and sourcing in `core/standards/partner-co-branding.md`, Project partner pages.
 
 | Primary audience | Message focus | Tone |
 |---|---|---|

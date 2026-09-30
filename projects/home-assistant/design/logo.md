@@ -23,28 +23,18 @@ Note: https://github.com/home-assistant/brands holds icons and logos for the bra
 | Main lockup | `home-assistant/logo/<screen or print>/lockup/main/` | Default. Certified and trademark-registered. Use whenever in doubt. |
 | Stacked lockup | `.../lockup/stacked/` | Only where space or alignment rules out the main lockup, such as too little width. |
 | Logomark alone | `.../logomark/` | Social avatars, or third parties publishing the mark only, and only where the name is nearby. |
-| Logotype alone | TODO: not in the repository | Only when layout rules out the mark beside it, and only if the logomark appears elsewhere on the same surface (for example packaging). |
 | Colored, light background | lockups: files ending `-color-on-light`; logomark: `-color` (one file for both backgrounds) | Default and official. |
 | Colored, dark background | lockups: files ending `-color-on-dark` | Dark backgrounds only. |
 | Monochrome black or white | files ending `-monochrome-on-light` or `-monochrome-on-dark` | Photographic backgrounds, or print without color. |
 | Icon, favicons, app icons | TODO | not covered by the source or the repository |
 
-Paths are in the brand assets repository, https://github.com/OpenHomeFoundation/brand-assets/tree/main/home-assistant/logo; file prefix `HA-`. Layout and naming: `core/standards/co-branding.md`, Required elements. The file prefix is internal, like the photography file names; it is not a way to write the name.
+Paths are in the brand assets repository, https://github.com/OpenHomeFoundation/brand-assets/tree/main/home-assistant/logo; file prefix `HA-`. Layout and naming: `core/standards/partner-co-branding.md`, Required elements. The file prefix is internal, like the photography file names; it is not a way to write the name.
 
-## Product logos
-Hardware products get a product logo: the project logo plus the product name, in Biotif, semibold for the project wordmark and regular for the product name (for example "Home Assistant Connect ZBT-2"). Same color variations and rules as the project logo. TODO: product logo files are not in the brand assets repository.
-
-| Lockup | Use |
-|---|---|
-| Main | Default. |
-| Inline | Wide, shallow spaces such as a website navigation bar. |
-| Wordmark alone | Only if the logomark appears elsewhere on the same surface. |
-| Split | Only for products in a line (for example Connect): logotype and logomark separated to fit the layout or make the name stand out. |
+There is no wordmark: the logotype never appears without the logomark. This applies to ESPHome and Music Assistant as well. Product logos for partner hardware: `core/standards/partner-product-logos.md`.
 
 ## Clear space and size
 - Exclusion zone on every side: one third of the height of the logomark. (The Open Home Foundation logo measures from the width instead; this is how the source states it.)
 - The logo is drawn on a square modular grid; do not change its proportions.
-- Product logos have their own exclusion zone; the source shows it as a diagram (1/3 and 1/5 annotations) without stating the rule in words. TODO: confirm the product-logo clear space.
 - TODO: minimum size for print and screen. The source does not give one.
 
 ## Backgrounds
@@ -59,7 +49,8 @@ Hardware products get a product logo: the project logo plus the product name, in
 - Changing any color or adding a gradient. Only the palette in `color.md`.
 - Drop shadows.
 - Changing letter spacing.
+- The logotype without the logomark.
 - Deprecated versions, including the pre-2020 mark. The source shows them as images; TODO list them by file.
 
 ## Co-branding
-Conforms to `core/standards/co-branding.md`, and on packaging `core/standards/product-packaging.md`. Attribution wording is in naming.md. Lockup files with the Open Home Foundation mark: TODO. Partner marks ("Works with Home Assistant"): see marketing/partners.md.
+With commercial partners: `core/standards/partner-co-branding.md`, and on their packaging `core/standards/partner-packaging.md`. Attribution wording is in naming.md. Lockup files with the Open Home Foundation mark: TODO. Partner marks ("Works with Home Assistant"): see marketing/partners.md.

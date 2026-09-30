@@ -10,7 +10,7 @@ draft: true
 # Home Assistant: imagery
 
 ## Photography
-Product photography (pack shot, still life, campaign) follows `core/standards/product-photography.md`, imported 2026-09-30 from the partner guidelines v1.1. TODO: photography of people, events, and community, which the source does not cover.
+TODO: photography style, subjects, and what to avoid. Photography of partner hardware is governed separately, by `core/standards/partner-photography.md`; it is not a rule for this project's own photography.
 
 ## Screenshots
 Release posts use product screenshots per feature (https://www.home-assistant.io/blog/2026/09/02/release-20269/). TODO: theme (light or dark), device frame, redaction of personal entity names, resolution. Docs images carry descriptive alt text and may use the `invertDark` class for dark mode (https://developers.home-assistant.io/docs/documenting/general-style-guide).

@@ -16,7 +16,7 @@ Source: Marketing and Product Guidelines for our commercial partners, v1.1 (Augu
 - **Logotype.** "Music Assistant" in Biotif semibold, Title Case (not capitals).
 
 ## Files
-The Music Assistant logo comes in the variants listed under Files in `projects/home-assistant/design/logo.md`, with the same uses and the same gaps (no logotype-alone file). Files: https://github.com/OpenHomeFoundation/brand-assets/tree/main/music-assistant/logo, prefix `MA-`, for example `MA-lockup-main-color-on-light.svg`.
+The Music Assistant logo comes in the variants listed under Files in `projects/home-assistant/design/logo.md`, with the same uses. There is no wordmark. Files: https://github.com/OpenHomeFoundation/brand-assets/tree/main/music-assistant/logo, prefix `MA-`, for example `MA-lockup-main-color-on-light.svg`.
 
 TODO: the source does not say whether the Music Assistant main lockup is trademark-registered, as it does for Home Assistant and the Open Home Foundation.
 
@@ -31,4 +31,4 @@ As for Home Assistant: colored version on light (default), colored dark-backgrou
 - Deprecated Music Assistant logos. The source shows them as images only; TODO list them by file.
 
 ## Co-branding
-Conforms to `core/standards/co-branding.md`, and on packaging `core/standards/product-packaging.md`. Lockups with the Open Home Foundation and with other projects: TODO files.
+With commercial partners: `core/standards/partner-co-branding.md`, and on their packaging `core/standards/partner-packaging.md`. Lockups with the Open Home Foundation and with other projects: TODO files.

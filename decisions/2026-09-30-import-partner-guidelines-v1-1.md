@@ -5,9 +5,9 @@ project: core
 trigger: review
 change: Imported the board-approved partner guidelines v1.1 into design, marketing/partners and three new core standards
 affected:
-  - core/standards/co-branding.md
-  - core/standards/product-packaging.md
-  - core/standards/product-photography.md
+  - core/standards/partner-co-branding.md
+  - core/standards/partner-packaging.md
+  - core/standards/partner-photography.md
   - projects/open-home-foundation/design/
   - projects/home-assistant/design/
   - projects/esphome/design/
@@ -29,7 +29,7 @@ by: @elcaptain
 - Open Home Foundation, ESPHome and Music Assistant: `design/logo.md`, `design/color.md`, `design/typography.md` and `design/tokens.json` written from the source and set `draft: false`. They keep TODOs for things the source does not cover (minimum logo sizes, type scale, per-file asset paths).
 - Home Assistant: brand palette, brand type, product colors and product logos added beside the existing product UI tokens. These files stay `draft: true` because they also hold UI tokens drafted from the frontend repository, which the board sign-off does not cover. The import settles two open questions in them: the brand blue is #18BCF2, and Roboto is the UI face, not the brand face.
 - All four projects: `design/imagery.md` points to the photography standard; `marketing/partners.md` gains who may use the brand, partner logo rules, and a Partner copy summary. `partners.md` stays `draft: true` (mixed sources).
-- Text shared by every project's `partners.md` (who may use the brand, partner logos, the status of the Partner copy summary) lives once in `core/standards/co-branding.md`, Project partner pages. Each `partners.md` points there and keeps only its own Partner copy table. ESPHome and Music Assistant point to the Home Assistant Brand roles and logo Files rather than repeating them.
+- Text shared by every project's `partners.md` (who may use the brand, partner logos, the status of the Partner copy summary) lives once in `core/standards/partner-co-branding.md`, Project partner pages. Each `partners.md` points there and keeps only its own Partner copy table. ESPHome and Music Assistant point to the Home Assistant Brand roles and logo Files rather than repeating them.
 - `brand/` is untouched in every project.
 - No project's `ready:` changes. `design` cannot be declared ready while layout, motion, templates and accessibility still hold TODOs.
 

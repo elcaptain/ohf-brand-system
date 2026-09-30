@@ -27,7 +27,7 @@ Source: Marketing and Product Guidelines for our commercial partners, v1.1 (Augu
 | Colored, dark background | files ending `-color-on-dark` | Dark backgrounds only. |
 | Monochrome black or white | files ending `-monochrome-on-light` or `-monochrome-on-dark` | Photographic backgrounds, or print without color. |
 
-Paths are in the brand assets repository, https://github.com/OpenHomeFoundation/brand-assets/tree/main/open-home-foundation/logo; file prefix `OHF-`. Layout and naming: `core/standards/co-branding.md`, Required elements.
+Paths are in the brand assets repository, https://github.com/OpenHomeFoundation/brand-assets/tree/main/open-home-foundation/logo; file prefix `OHF-`. Layout and naming: `core/standards/partner-co-branding.md`, Required elements.
 
 ## Clear space and size
 - Exclusion zone on every side: one third of the width of the logomark.
@@ -51,7 +51,7 @@ Paths are in the brand assets repository, https://github.com/OpenHomeFoundation/
 - Deprecated versions. The source shows them as images; file them here once the marketing team names them. TODO.
 
 ## Co-branding
-Conforms to `core/standards/co-branding.md` and, on packaging, `core/standards/product-packaging.md`. Commercial partners may use the "A commercial partner of the Open Home Foundation" badge instead of this logo; the rules are in the co-branding standard.
+With commercial partners: `core/standards/partner-co-branding.md`, and on their packaging `core/standards/partner-packaging.md`. Commercial partners may use the "A commercial partner of the Open Home Foundation" badge instead of this logo; the rules are in the co-branding standard.
 
 ## Open questions
 - Is the stacked lockup ever permitted to partners, given it is marked "internal design use only"?

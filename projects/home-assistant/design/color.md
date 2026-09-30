@@ -41,7 +41,7 @@ Home Assistant is the only project with a secondary palette. Five colors to tell
 No print values are given for the secondary palette.
 
 ### Brand: product colors
-Each product or product line has one color, used with the primary palette and as the second ink on packaging (`core/standards/product-packaging.md`).
+Each product or product line has one color, used with the primary palette and as the second ink on packaging (`core/standards/partner-packaging.md`).
 
 | Token | Value | Product | Print |
 |---|---|---|---|

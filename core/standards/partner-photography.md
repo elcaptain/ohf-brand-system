@@ -1,8 +1,8 @@
 ---
-standard: product-photography
-title: Product photography
+standard: partner-photography
+title: Product photography for partner hardware
 scope: core
-applies_outputs: [pack-shot, still-life-photo, campaign-photo, product-page]
+applies_outputs: [partner-pack-shot, partner-still-life-photo, partner-campaign-photo, partner-product-page]
 conformance: none
 owner: @liam
 last_reviewed: 2026-09-30
@@ -11,9 +11,11 @@ status: active
 source: Marketing and Product Guidelines for our commercial partners, v1.1 (August 2026), pp. 116-123. File Brand_Guidelines__V03-Aug26__1.pdf
 ---
 
-# Product photography
+# Product photography for partner hardware
 
-Governs photographs of hardware products carrying an Open Home Foundation or project brand, whoever commissions them. Three formats, each with its own job: pack shots for marketplaces and shops, still life for the website and campaigns, campaign photography for products in real homes. Exists so images from different partners and shoots sit together without looking like different brands.
+Governs photographs of hardware a commercial partner makes that carries an Open Home Foundation or project brand. Three formats, each with its own job: pack shots for marketplaces and shops, still life for the website and campaigns, campaign photography for products in real homes. Exists so images from different partners and shoots sit together without looking like different brands.
+
+Partner-specific: applies only to material a commercial partner of the Open Home Foundation makes or co-brands with us. The Open Home Foundation's and the projects' own material follows each project's `design/` and `brand/` files, not this standard.
 
 ## Required elements
 - Delivery as TIFF for all three formats.
@@ -66,4 +68,4 @@ The source's naming convention uses "HA" for Home Assistant. File names are inte
 | Shortened names in captions | search captions and alt text for "HA", "MA" and other abbreviations | write the name in full |
 
 ## How skills use this
-Skills that brief, review, or caption product imagery load this file and run its Machine checks in review. Each project's `design/imagery.md` points here for photography.
+Skills that brief, review, or caption partner product imagery load this file and run its Machine checks in review. Each project's `design/imagery.md` notes that partner photography is governed here.

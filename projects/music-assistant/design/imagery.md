@@ -10,7 +10,7 @@ draft: true
 # Music Assistant: imagery
 
 ## Photography
-Product photography (pack shot, still life, campaign) follows `core/standards/product-photography.md`, imported 2026-09-30 from the partner guidelines v1.1. TODO: photography of people, events, and community, which the source does not cover.
+TODO: photography style, subjects, and what to avoid. Photography of partner hardware is governed separately, by `core/standards/partner-photography.md`; it is not a rule for this project's own photography.
 
 ## Screenshots
 TODO: theme, device frame, redaction, resolution, how to show the UI.
