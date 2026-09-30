@@ -2,7 +2,7 @@
 area: escalation
 project: core
 owner: @liam
-last_reviewed: 2026-09-14
+last_reviewed: 2026-09-30
 review_every: 90d
 source: Communications Strategy & Architecture, 1.1.2 and 1.1.4
 ---
@@ -22,6 +22,10 @@ Skills check intake and draft against this table. When a trigger fires, the skil
 | Pricing, licensing, legal or partnership terms | leadership | Commitments |
 | A proof point with Verified empty or "Never" | truths owner | Not usable until verified |
 | Rubric self-score below 3 on any axis | requester's reviewer | Honest about reliability |
+
+## Contacts
+- Commercial partners, for approvals, co-branding and anything under `core/standards/partner-*.md`: partner@openhomefoundation.org.
+- Everything else about the brand: brand@openhomefoundation.org.
 
 ## Fallback
 While waiting, the requester gets the draft clearly marked, plus the reviewer's name and expected turnaround.

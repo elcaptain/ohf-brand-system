@@ -15,6 +15,7 @@ affected:
   - projects/esphome/design/imagery.md
   - projects/music-assistant/design/imagery.md
   - INDEX.md
+  - core/escalation.md
 by: @elcaptain
 ---
 
@@ -31,6 +32,9 @@ The partner guidelines v1.1 do two jobs. They contain the basic brand guidelines
 - `INDEX.md` gains one line saying when to load the partner standards.
 - Written content was already partner-specific: the Partner copy section in each `marketing/partners.md`, whose status is described in `partner-co-branding.md`. It is unchanged.
 - Logo, colour and typography stay general project rules in each `design/` directory.
+
+## Contacts
+The guidelines give brand@openhomefoundation.org, and the brand-assets README gives partner@openhomefoundation.org. @elcaptain settled it: partner@ for commercial partners, and brand@ for everything else. Both are recorded in `core/escalation.md`, Contacts, and the partner co-branding standard uses partner@.
 
 ## Left as is
 - Home Assistant's product colours stay in `design/color.md`. They are palette tokens, and the partner packaging standard uses them.

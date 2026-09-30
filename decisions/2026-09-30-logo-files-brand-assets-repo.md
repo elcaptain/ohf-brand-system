@@ -30,9 +30,10 @@ The partner guidelines v1.1 point to a Google Drive folder for logos and list lo
 ## What the repository does not hold
 - Product logos (for example Home Assistant Connect ZBT-2).
 - Icons, favicons and app icons.
-- Background variants of the commercial partner badge. The source describes three, and the repository has one.
 - Project logomarks come as a single `-color` file, with no light and dark versions. The Open Home Foundation logomark has both.
 
 ## Not settled here
-- The split product lockup, and the packaging top panel that sets the logotype apart from the logomark, both need a wordmark file. They are marked TODO until the Open Home Foundation confirms how to handle them.
-- The repository README gives partner@openhomefoundation.org as the contact for commercial use, and the partner guidelines give brand@openhomefoundation.org. The standards keep brand@ until someone confirms which is right.
+- The split product lockup, and the packaging top panel that sets the logotype apart from the logomark, both need a wordmark file. They stay TODO, as @elcaptain decided.
+
+## Badge
+The commercial partner badge has one variant. The source's rule for choosing a variant by background is removed. The badge is not the "Works with Home Assistant" mark, which brand-assets does not hold.

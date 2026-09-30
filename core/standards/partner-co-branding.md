@@ -18,7 +18,7 @@ Governs every output that puts a commercial partner's logo, name, or copy next t
 Partner-specific: applies only to material a commercial partner of the Open Home Foundation makes or co-brands with us. The Open Home Foundation's and the projects' own material follows each project's `design/` and `brand/` files, not this standard. Related partner standards: `core/standards/partner-product-logos.md`, `core/standards/partner-packaging.md`, `core/standards/partner-photography.md`.
 
 ## Required elements
-- Final approval from the Open Home Foundation before anything carrying our branding is published or printed. Route per `core/escalation.md` (partnership terms go to leadership). Contact: brand@openhomefoundation.org.
+- Final approval from the Open Home Foundation before anything carrying our branding is published or printed. Route per `core/escalation.md` (partnership terms go to leadership). Contact: partner@openhomefoundation.org (`core/escalation.md`, Contacts).
 - Our logos taken only from the brand assets repository, never redrawn or screenshotted: https://github.com/OpenHomeFoundation/brand-assets. One directory per brand (`open-home-foundation/`, `home-assistant/`, `esphome/`, `music-assistant/`), each with `logo/print/` (CMYK EPS and PDF) and `logo/screen/` (PNG and SVG), split into `lockup/<variant>/` and `logomark/`. File names follow `<brand>-<type>-<variant>-<theme>-<background>.<ext>`, for example `HA-lockup-main-color-on-light.svg`. Each project's `design/logo.md` lists its paths. The repository is the source of truth for logo and badge files; the Google Drive folder the partner guidelines v1.1 name is not used. No project has a wordmark: the logotype never appears without the logomark.
 - Each project's logo rules as written in `projects/<slug>/design/logo.md`.
 - Clear space around each logo in the pairing of at least the height of the logotype or logomark.
@@ -38,14 +38,9 @@ Size the two logos so they look equal in both width and height and center them o
 - No: both logos set to the same pixel height regardless of shape.
 
 ### Use the badge instead of our logo where the badge fits
-The "A commercial partner of the Open Home Foundation" badge carries our identity by itself. Use it mainly in GitHub repositories, and also on websites or marketing material where it serves a clear purpose. Do not add the Open Home Foundation logo next to it. Badge files: `open-home-foundation/badge/` in the brand assets repository (https://github.com/OpenHomeFoundation/brand-assets/tree/main/open-home-foundation/badge), `ohf-badge-commercialpartner.svg` and `.png`.
+The "A commercial partner of the Open Home Foundation" badge carries our identity by itself. Use it mainly in GitHub repositories, and also on websites or marketing material where it serves a clear purpose. Do not add the Open Home Foundation logo next to it. Badge files: `open-home-foundation/badge/` in the brand assets repository (https://github.com/OpenHomeFoundation/brand-assets/tree/main/open-home-foundation/badge), `ohf-badge-commercialpartner.svg` and `.png`. There is one variant, for every background; the three background variants the source describes do not exist. This badge is not the "Works with Home Assistant" mark, which is not in the repository.
 - Yes: the badge alone in the README of the partner's repository.
 - No: the badge plus the Open Home Foundation logo in the same README header.
-
-### Pick the badge variant by background
-The source describes three variants; the brand assets repository holds one commercial partner badge (TODO: confirm whether background variants will be added). Where variants exist, use the one without a background on light or dark surfaces where its colors contrast, or when it sits among other badges without backgrounds. Use the light grey background version when the background cannot be predicted or controlled, such as a patterned image or a low-contrast surface. The source names only these two; the third variant is not described.
-- Yes: light grey background version over a lifestyle photo.
-- No: the transparent version over a busy product photo.
 
 ### The badge ends when the partnership ends
 A partner may use the badge only while the partnership is active.
